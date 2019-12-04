@@ -1,0 +1,16 @@
+.root {
+    position: relative;
+    box-sizing: border-box;
+    border: 1px solid #e1e8ed;
+    border-radius: 2px;
+    padding: 15px 20px;
+}
+
+.title{
+    position: absolute;
+    left: 12px;
+    top: -12px;
+    padding: 0 6px;
+    background: #fff;
+    color: #999;
+}
